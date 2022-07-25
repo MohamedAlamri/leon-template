@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/leon-template/static/css/main.31d6cfe0.css",
-    "main.js": "/leon-template/static/js/main.acd4f0cf.js",
-    "static/js/787.f45da836.chunk.js": "/leon-template/static/js/787.f45da836.chunk.js",
-    "static/media/mountain.jpg": "/leon-template/static/media/mountain.e97207b94dcbcd8d73da.jpg",
-    "static/media/portfolio-2.jpg": "/leon-template/static/media/portfolio-2.bd5994fd62dff3cec53c.jpg",
-    "static/media/about.png": "/leon-template/static/media/about.266b02f6defdcd810958.png",
-    "static/media/portfolio-3.jpg": "/leon-template/static/media/portfolio-3.63308af3b31761c87be5.jpg",
-    "static/media/services.jpg": "/leon-template/static/media/services.fcd5e7c86ab060bca4a0.jpg",
-    "static/media/portfolio-1.jpg": "/leon-template/static/media/portfolio-1.77c42523467d675cef53.jpg",
-    "static/media/logo.svg": "/leon-template/static/media/logo.51c28a482c24b5fc5f8838c764305a4e.svg",
-    "index.html": "/leon-template/index.html",
-    "static/media/menu.svg": "/leon-template/static/media/menu.154c6315ff58b3a3bf296730dca0cb07.svg",
-    "main.acd4f0cf.js.map": "/leon-template/static/js/main.acd4f0cf.js.map",
-    "787.f45da836.chunk.js.map": "/leon-template/static/js/787.f45da836.chunk.js.map"
+    "main.css": "/leon-website/static/css/main.31d6cfe0.css",
+    "main.js": "/leon-website/static/js/main.abd109a2.js",
+    "static/js/787.a8f8988b.chunk.js": "/leon-website/static/js/787.a8f8988b.chunk.js",
+    "static/media/mountain.jpg": "/leon-website/static/media/mountain.e97207b94dcbcd8d73da.jpg",
+    "static/media/portfolio-2.jpg": "/leon-website/static/media/portfolio-2.bd5994fd62dff3cec53c.jpg",
+    "static/media/about.png": "/leon-website/static/media/about.266b02f6defdcd810958.png",
+    "static/media/portfolio-3.jpg": "/leon-website/static/media/portfolio-3.63308af3b31761c87be5.jpg",
+    "static/media/services.jpg": "/leon-website/static/media/services.fcd5e7c86ab060bca4a0.jpg",
+    "static/media/portfolio-1.jpg": "/leon-website/static/media/portfolio-1.77c42523467d675cef53.jpg",
+    "static/media/logo.svg": "/leon-website/static/media/logo.51c28a482c24b5fc5f8838c764305a4e.svg",
+    "index.html": "/leon-website/index.html",
+    "static/media/menu.svg": "/leon-website/static/media/menu.154c6315ff58b3a3bf296730dca0cb07.svg",
+    "main.abd109a2.js.map": "/leon-website/static/js/main.abd109a2.js.map",
+    "787.a8f8988b.chunk.js.map": "/leon-website/static/js/787.a8f8988b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.acd4f0cf.js"
+    "static/js/main.abd109a2.js"
   ]
 }
